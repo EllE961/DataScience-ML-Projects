@@ -6,7 +6,7 @@ A curated list of **100** Data Science and Machine Learning project ideas with r
 
 | Sr. No. | Done? | Project                                                | Resource Link(s)                                                                                                   |
 |--------:|:-----:|:-------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| 1       | [ ]   | Iris Flower Classification                             | [Iris Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/iris)                                                |
+| 1       | [✔️]   | Iris Flower Classification                             | [Iris Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/iris)                                                |
 | 2       | [ ]   | Titanic Survival Prediction                            | [Titanic (Kaggle)](https://www.kaggle.com/c/titanic)                                                                |
 | 3       | [ ]   | Sentiment Analysis (Amazon Reviews)                    | [Amazon Reviews Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)                            |
 | 4       | [ ]   | Fake News Detection                                    | [Fake News Dataset (Kaggle)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)           |
