@@ -11,7 +11,7 @@ A curated list of **100** Data Science and Machine Learning project ideas with r
 | 3       | [✔️]   | Sentiment Analysis (Amazon Reviews)                    | [Amazon Reviews Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)                            |
 | 4       | [✔️]   | Fake News Detection                                    | [Fake News Dataset (Kaggle)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)           |
 | 5       | [✔️]   | Detecting Parkinson’s Disease                          | [Parkinson’s Detection (Medium)](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/data)            |
-| 6       | [ ]   | Color Detection (OpenCV)                               | [Color Detection](https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/)                 |
+| 6       | [✔️]   | Color Detection (OpenCV)                               | [Color Detection](https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/)                 |
 | 7       | [ ]   | Loan Prediction (Classification)                       | [Loan Prediction (Analytics Vidhya)](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) |
 | 8       | [ ]   | House Price Prediction (Regression)                    | [House Prices (Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)                      |
 | 9       | [ ]   | MNIST Digit Classification                             | [MNIST Dataset (Kaggle)](https://www.kaggle.com/c/digit-recognizer)                                                |
