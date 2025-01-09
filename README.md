@@ -2,6 +2,7 @@
 
 A curated list of **100** Data Science and Machine Learning project ideas with resources to help you get started. Each row has a checkbox so you can mark when you complete a project. Feel free to fork or clone this repository and track your progress!
 
+Note: some links may not work
 ## Project List
 
 | Sr. No. | Done? | Project                                                | Resource Link(s)                                                                                                   |
