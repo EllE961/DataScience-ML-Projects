@@ -14,7 +14,7 @@ Note: some links may not work
 | 5       | [✔️]   | Detecting Parkinson’s Disease                          | [Parkinson’s Detection (Medium)](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/data)            |
 | 6       | [✔️]   | Color Detection (OpenCV)                               | [Color Detection](https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/)                 |
 | 7       | [✔️]   | Loan Prediction (Classification)                       | [Loan Prediction (Analytics Vidhya)](https://www.kaggle.com/datasets/anmolkumar/analytics-vidhya-loan-prediction/data) |
-| 8       | [ ]   | House Price Prediction (Regression)                    | [House Prices (Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)                      |
+| 8       | [✔️]   | House Price Prediction (Regression)                    | [House Prices (Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)                      |
 | 9       | [✔️]   | MNIST Digit Classification                             | [MNIST Dataset (Kaggle)](https://www.kaggle.com/c/digit-recognizer)                                                |
 | 10      | [ ]   | Movie Recommendation System                            | [MovieLens Dataset](https://grouplens.org/datasets/movielens/)                                                     |
 | 11      | [ ]   | Customer Segmentation (Clustering)                     | [Mall Customer Segmentation (Kaggle)](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial)          |
