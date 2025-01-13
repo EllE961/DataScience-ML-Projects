@@ -17,7 +17,7 @@ Note: some links may not work
 | 8       | [✔️]   | House Price Prediction (Regression)                    | [House Prices (Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)                      |
 | 9       | [✔️]   | MNIST Digit Classification                             | [MNIST Dataset (Kaggle)](https://www.kaggle.com/c/digit-recognizer)                                                |
 | 10      | [✔️]   | Movie Recommendation System                            | [MovieLens Dataset](https://grouplens.org/datasets/movielens/)                                                     |
-| 11      | [ ]   | Customer Segmentation (Clustering)                     | [Mall Customer Segmentation (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)           |
+| 11      | [✔️]   | Customer Segmentation (Clustering)                     | [Mall Customer Segmentation (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)           |
 | 12      | [ ]   | Spam Email Detection                                   | [Spam/Ham Email (Kaggle)](https://www.kaggle.com/uciml/sms-spam-collection-dataset)                                |
 | 13      | [ ]   | Face Mask Detection (OpenCV & DL)                      | [Face Mask Detection (Medium)](https://medium.com/analytics-vidhya/face-mask-detection-with-opencv-and-deep-learning) |
 | 14      | [ ]   | Handwritten Equation Solver (OCR)                      | [OCR with OpenCV/Python](https://medium.com/analytics-vidhya/basic-ocr-implementation-using-opencv-python)         |
