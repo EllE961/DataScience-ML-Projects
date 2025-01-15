@@ -4,7 +4,7 @@ A curated list of **100** Data Science and Machine Learning project ideas with r
 
 Note: some links may not work
 ## Project List
-   
+     
 | Sr. No. | Done? | Project                                                | Resource Link(s)                                                                                                    |
 |--------:|:-----:|:-------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
 | 1       | [✔️]   | Iris Flower Classification                             | [Iris Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/iris)                                                |   
