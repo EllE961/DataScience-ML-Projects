@@ -19,7 +19,7 @@ Note: some links may not work
 | 10      | [✔️]   | Movie Recommendation System                            | [MovieLens Dataset](https://grouplens.org/datasets/movielens/)                                                     |
 | 11      | [✔️]   | Customer Segmentation (Clustering)                     | [Mall Customer Segmentation (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)           |
 | 12      | [✔️]   | Spam Email Detection                                   | [Spam/Ham Email (Kaggle)](https://www.kaggle.com/uciml/sms-spam-collection-dataset)                                |
-| 13      | [ ]   | Face Mask Detection (OpenCV & DL)                      | [Face Mask Detection (Medium)](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) |
+| 13      | [✔️]   | Face Mask Detection (OpenCV & DL)                      | [Face Mask Detection (Medium)](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) |
 | 14      | [ ]   | Handwritten Equation Solver (OCR)                      | [OCR with OpenCV/Python](https://medium.com/analytics-vidhya/basic-ocr-implementation-using-opencv-python)         |
 | 15      | [ ]   | Breast Cancer Detection                                | [Breast Cancer Wisconsin (Kaggle)](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)                      |
 | 16      | [ ]   | Diabetes Prediction                                    | [Pima Indians Diabetes (Kaggle)](https://www.kaggle.com/uciml/pima-indians-diabetes-database)                      |
